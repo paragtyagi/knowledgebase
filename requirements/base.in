@@ -1,0 +1,7 @@
+Django>=1.11,<2.3
+wiki==0.5
+psycopg2==2.8.5 --no-binary psycopg2
+gunicorn
+python-dotenv==0.15.0
+requests[security]
+

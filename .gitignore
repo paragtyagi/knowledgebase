@@ -1,0 +1,18 @@
+# Environment
+.envrc
+.env
+
+# Python
+*.py[co]
+*.pyj-cached
+__pycache__/
+
+# intellij configs
+.idea/
+
+# project
+local_settings.py
+
+media/
+assets/
+logs/
